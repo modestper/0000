@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b31c982560cabc32",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d59c1db30718ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863f28ff53cbd21f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "477bb60a28265e1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a35f11d676da0d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903883dc8b6f024c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bca985c14800304",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09e5157960470a4c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ff32b794223f6ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c886e6aecd35af5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2645e4fb85af06fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f97784e45029fcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86dfe888e86a3c4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ace839525ec411c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "863f28ff53cbd21f",
+  "lastOpenFiles": [
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/1.2对数器.md",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/1.4异或运算.md",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/random array.png",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/insertion sort.png",
+    "test02.png",
+    "语言/java/1.输入.md",
+    "语言/C++/1.数组.md",
+    "左程云/第三章 归并排序、快速排序/1.归并排序.md",
+    "左程云/第二章 链表结构、栈、队列、递归行为、哈希表和有序表/4.哈希表和有序表.md",
+    "左程云/第二章 链表结构、栈、队列、递归行为、哈希表和有序表/3.递归.md",
+    "语言",
+    "语言/java",
+    "左程云/第二章 链表结构、栈、队列、递归行为、哈希表和有序表/1.链表结构.md",
+    "左程云/第三章 归并排序、快速排序/2.快速排序.md",
+    "左程云/第三章 归并排序、快速排序",
+    "左程云/第二章 链表结构、栈、队列、递归行为、哈希表和有序表/getMax.png",
+    "左程云/第二章 链表结构、栈、队列、递归行为、哈希表和有序表/recursion getMax.png",
+    "Pasted image 20230309181439.png",
+    "左程云/第二章 链表结构、栈、队列、递归行为、哈希表和有序表/recursion.png",
+    "Pasted image 20230309180001.png",
+    "recursion sort.png",
+    "Pasted image 20230309174651.png",
+    "左程云/第二章 链表结构、栈、队列、递归行为、哈希表和有序表/2.栈和队列.md",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/1.3二分法(有序).md",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/1.1复杂度.md",
+    "未命名",
+    "左程云/第二章 链表结构、栈、队列、递归行为、哈希表和有序表",
+    "Pasted image 20230307201230.png.md",
+    "Pasted image 20230320230307201230.png07201230.png.md",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/未命名/1.1复杂度.md",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/未命名",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/1.1复杂度/1.1复杂度.md",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/1.1复杂度",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/未命名 2",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/未命名 1 1",
+    "左程云/第一章 复杂度、对数器、二分法、异或运算/未命名 1",
+    "语言/C++/2.数.md",
+    "未命名 2.md",
+    "未命名 3.md",
+    "未命名 6.md",
+    "未命名 4.md",
+    "未命名 8.md",
+    "未命名 7.md",
+    "未命名 5.md"
+  ]
+}
